@@ -1,1 +1,0 @@
-{"nehuuu": {"name": "nehuuu", "phone": "67987639763", "email": "hjuki@gmail.com"}, "sanuu": {"name": "sanuu", "phone": "680985325", "email": "hjikliuj@gmail.com"}}
